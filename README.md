@@ -1,16 +1,21 @@
-### Hi there 👋
+```
+Begin transmission
+*
+*
+---------------------
+loading complete
+```
 
-<!--
-**syborg64/syborg64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Syborg64 is a nerd, making code for himself, open source projects and as a part of the curriculum at Epitech
 
-Here are some ideas to get you started:
+His main interests are in math, including trig, applications of the complex plane and 3D.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+OS: Trying to stop using Windows
+
+feels at home with a bash terminal
+
+Software/languages:
+- VScode - Only software 'made' by microsoft that isn't garbage
+- Blender - you keep telling yourself it's the best because it's free
+- C - No, the burning sensation is a good thing
+- python - just don't mention performance
