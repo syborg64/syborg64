@@ -6,9 +6,9 @@ Begin transmission
 loading complete
 ```
 
-# Syborg64 is a nerd, making code for himself, open source projects and as a part of the curriculum at Epitech
+# Syborg64 is a nerd, making code for itself, open source projects and as a part of the curriculum at Epitech
 
-His main interests are in math, including trig, applications of the complex plane and 3D.
+its main interests are in math, including trig, applications of the complex plane and 3D.
 
 OS: Trying to stop using Windows
 
