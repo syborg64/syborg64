@@ -6,16 +6,16 @@ Begin transmission
 loading complete
 ```
 
-# Syborg64 is a nerd, making code for itself, open source projects and as a part of the curriculum at Epitech
+# Syborg64 is a nerd, making code for itself, open source projects, and as a part of the curriculum at Epitech
 
-its main interests are in math, including trig, applications of the complex plane and 3D.
+its main interests are in math, science, tech, and culture 
 
-OS: Trying to stop using Windows
-
-feels at home with a bash terminal
+OS: Arch for development, Windows for convenience
 
 Software/languages:
+- C++ - 🤓
+- C - No don't worry, that burning sensation is a good thing
+- Rust - the chosen one
 - VScode - Only software 'made' by microsoft that isn't garbage
-- Blender - you keep telling yourself it's the best because it's free
-- C - No, the burning sensation is a good thing
+- Blender - It's just good
 - python - just don't mention performance
