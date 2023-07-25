@@ -19,3 +19,5 @@ Software/languages:
 - VScode - Only software 'made' by microsoft that isn't garbage
 - Blender - It's just good
 - python - just don't mention performance
+
+[![Sy's GitHub stats](https://github-readme-stats.vercel.app/api?username=syborg64)](https://github.com/syborg64/github-readme-stats)
